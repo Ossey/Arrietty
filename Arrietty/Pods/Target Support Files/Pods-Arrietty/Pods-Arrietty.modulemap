@@ -1,0 +1,8 @@
+framework module Pods_Arrietty {
+  umbrella header "Pods-Arrietty-umbrella.h"
+
+
+  export *
+  module * { export * }
+}
+
